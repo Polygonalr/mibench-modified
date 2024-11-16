@@ -1,0 +1,4 @@
+*.o
+output*
+bf
+input_extreme.asc
